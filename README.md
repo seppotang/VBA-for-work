@@ -11,3 +11,8 @@ readability instructions:
 3) Paste code as is
 
 4) Run
+
+
+M_Level1:
+  
+  This is macro practice; merges countless sheets that have the same format table into one sheet.
