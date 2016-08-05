@@ -13,6 +13,10 @@ readability instructions:
 4) Run
 
 
+
 M_Level1:
   
   This is macro practice; merges countless sheets that have the same format table into one sheet.
+
+Readability:
+  This is macro practice; cleans up production data for easy input into calculation sheet.
